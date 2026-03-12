@@ -231,3 +231,14 @@ AWS, Python, Kubernetes, Docker, CI/CD, Java, Terraform, Golang, Go, distributed
   - For AI role: RAG pipeline design, agent orchestration patterns, prompt engineering
   - For Data role: data modeling, pipeline reliability, Python best practices
   - Behavioral: collaboration, pairing culture, TDD discipline — Guidewire explicitly screens for engineering culture fit
+
+---
+
+## Reference Links
+
+1. [Senior Software Engineer - Agentic AI](https://www.guidewire.com/about/careers/jobs/senior-software-engineer---agentic-ai-jr_14459)
+2. [Software Engineer III (Cloud Platform)](https://www.guidewire.com/about/careers/jobs/software-engineer-iii-jr_12870)
+3. [Software Engineer III (InsuranceNow)](https://www.guidewire.com/about/careers/jobs/software-engineer-iii-jr_14366)
+4. [Staff Software Engineer - Product Development](https://www.guidewire.com/about/careers/jobs/staff-software--engineer---product-development-jr_12030)
+5. [Site Reliability Engineer II (SRE) - Guidewire Cloud Platform](https://www.guidewire.com/about/careers/jobs/site-reliability-engineer-ii--sre----guidewire-cloud-platform--application--jr_14107)
+6. [Sr. Data Platform Engineer](https://www.guidewire.com/about/careers/jobs/sr--data-platform-engineer-jr_12619)

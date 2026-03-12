@@ -243,3 +243,13 @@ Kubernetes, Python, Go, Golang, Docker, GCP, Google Cloud Platform, AWS, Azure, 
   - Behavioral: IC leadership, mentoring, cross-functional collaboration, ownership
   - For ML role: model serving, fine-tuning pipelines, ML observability, AI safety
   - For DevOps role: SRE practices, SLO governance, incident management, IaC at scale
+
+---
+
+## Reference Links
+
+1. [Sr Principal Engineer Software](https://jobs.paloaltonetworks.com/en/job/bengaluru/sr-principal-engineer-software/47263/91053597552)
+2. [Principal DevOps Engineer - NetSec](https://jobs.paloaltonetworks.com/en/job/bengaluru/principal-devops-engineer-netsec/47263/91582226080)
+3. [Senior Staff IT Software Engineer](https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-staff-it-software-engineer/47263/91539178048)
+4. [Staff Software Engineer](https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-software-engineer/47263/91053599376)
+5. [Sr Staff ML Engineer - Production & MLOps (Prisma AIRS, NetSec)](https://jobs.paloaltonetworks.com/en/job/bengaluru/sr-staff-ml-engineer-production-and-mlops-focus-genai-security-platform-prisma-airs-netsec/47263/92355211520)
